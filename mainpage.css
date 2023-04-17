@@ -1,0 +1,16 @@
+.container
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box
+{
+     background-color: #7EE5DA;
+     flex: 2;
+     margin: 10px;
+     text-align: center;
+     height: 125px
+    
+}
